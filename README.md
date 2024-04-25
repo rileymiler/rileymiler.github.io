@@ -30,7 +30,7 @@
       <div class="u-clearfix u-sheet u-sheet-1">
         <h1 class="u-text u-text-default u-title u-text-1">Coming Soon<br>
         </h1>
-        <p class="u-large-text u-text u-text-default u-text-variant u-text-2">Business Analyst recruitment specialist<br>-<br>Riley.Marshall@whiteflagpersonnel.com<br>+44 7437 482369<br>
+        <p class="u-large-text u-text u-text-default u-text-variant u-text-2">Business Analyst recruitment specialist<br>-<br>Riley.Marshall@whiteflagpersonnel.com<br>
         </p>
       </div>
     </section>
